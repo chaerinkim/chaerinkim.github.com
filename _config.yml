@@ -2,8 +2,8 @@ name: Chaerin Kim
 bio: 'a designer on the cutting edge'
 picture: 'assets/images/chaerin.jpg'
 
-# url: http://sergiokopplin.github.io/indigo
-# your url: http://USERNAME.github.io
+url: http://chaerinkim.github.io
+blog: http://blog.naver.com/chaeriie
 permalink: /:title/
 
 markdown: kramdown
@@ -11,7 +11,7 @@ highlighter: rouge
 
 analytics: 'UA-MYANALYTICS'
 # disqus: mydisqus
-# facebook: myfacebook
+facebook: chaerin.kim.5895
 # twitter: mytwitter
 instagram: chaeriie
 # linkedin: mylinkedin
